@@ -1,9 +1,38 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="xURy8Hj04F7XCDOl-guO">
-    <mxGraphModel>
+    <mxGraphModel dx="1123" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KLUg16uu9194eG2TQm-T-2" value="SOP&lt;div&gt;SUBSCRIBER AND GROUP MANAGEMENT FLOWCHART&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="375" y="60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-74" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="326" y="190" width="197.65" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KLUg16uu9194eG2TQm-T-74" source="KLUg16uu9194eG2TQm-T-4" target="KLUg16uu9194eG2TQm-T-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="98.825" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-4" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="KLUg16uu9194eG2TQm-T-74">
+          <mxGeometry x="16.470833333333335" width="164.70833333333334" height="98.8235294117647" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-13" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="KLUg16uu9194eG2TQm-T-74">
+          <mxGeometry x="16.470833333333335" y="461.17647058823525" width="164.70833333333334" height="98.8235294117647" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KLUg16uu9194eG2TQm-T-74" source="KLUg16uu9194eG2TQm-T-68" target="KLUg16uu9194eG2TQm-T-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-68" value="Add Subscriber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KLUg16uu9194eG2TQm-T-74">
+          <mxGeometry y="148.23529411764704" width="197.65" height="98.8235294117647" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-69" value="Add Group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KLUg16uu9194eG2TQm-T-74">
+          <mxGeometry y="296.4705882352941" width="197.65" height="98.8235294117647" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KLUg16uu9194eG2TQm-T-74" source="KLUg16uu9194eG2TQm-T-69" target="KLUg16uu9194eG2TQm-T-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
