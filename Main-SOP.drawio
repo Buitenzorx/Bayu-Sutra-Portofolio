@@ -1,37 +1,55 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0" version="24.7.14">
   <diagram name="Page-1" id="xURy8Hj04F7XCDOl-guO">
-    <mxGraphModel dx="1123" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KLUg16uu9194eG2TQm-T-2" value="SOP&lt;div&gt;SUBSCRIBER AND GROUP MANAGEMENT FLOWCHART&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="375" y="60" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KLUg16uu9194eG2TQm-T-74" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="326" y="190" width="197.65" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="KLUg16uu9194eG2TQm-T-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KLUg16uu9194eG2TQm-T-74" source="KLUg16uu9194eG2TQm-T-4" target="KLUg16uu9194eG2TQm-T-68">
+        <mxCell id="KLUg16uu9194eG2TQm-T-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLUg16uu9194eG2TQm-T-4" target="KLUg16uu9194eG2TQm-T-68">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="98.825" y="140" as="targetPoint" />
+            <mxPoint x="424.825" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KLUg16uu9194eG2TQm-T-4" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="KLUg16uu9194eG2TQm-T-74">
-          <mxGeometry x="16.470833333333335" width="164.70833333333334" height="98.8235294117647" as="geometry" />
+        <mxCell id="KLUg16uu9194eG2TQm-T-4" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="342.47083333333336" y="190" width="164.70833333333334" height="98.8235294117647" as="geometry" />
         </mxCell>
-        <mxCell id="KLUg16uu9194eG2TQm-T-13" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="KLUg16uu9194eG2TQm-T-74">
-          <mxGeometry x="16.470833333333335" y="461.17647058823525" width="164.70833333333334" height="98.8235294117647" as="geometry" />
+        <mxCell id="KLUg16uu9194eG2TQm-T-13" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="342.47083333333336" y="819.9964705882353" width="164.70833333333334" height="98.8235294117647" as="geometry" />
         </mxCell>
-        <mxCell id="KLUg16uu9194eG2TQm-T-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="KLUg16uu9194eG2TQm-T-74" source="KLUg16uu9194eG2TQm-T-68" target="KLUg16uu9194eG2TQm-T-69">
+        <mxCell id="KLUg16uu9194eG2TQm-T-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLUg16uu9194eG2TQm-T-68" target="KLUg16uu9194eG2TQm-T-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KLUg16uu9194eG2TQm-T-68" value="Add Subscriber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KLUg16uu9194eG2TQm-T-74">
-          <mxGeometry y="148.23529411764704" width="197.65" height="98.8235294117647" as="geometry" />
+        <mxCell id="KLUg16uu9194eG2TQm-T-68" value="Add Subscriber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="338.2352941176471" width="197.65" height="98.8235294117647" as="geometry" />
         </mxCell>
-        <mxCell id="KLUg16uu9194eG2TQm-T-69" value="Add Group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="KLUg16uu9194eG2TQm-T-74">
-          <mxGeometry y="296.4705882352941" width="197.65" height="98.8235294117647" as="geometry" />
-        </mxCell>
-        <mxCell id="KLUg16uu9194eG2TQm-T-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="KLUg16uu9194eG2TQm-T-74" source="KLUg16uu9194eG2TQm-T-69" target="KLUg16uu9194eG2TQm-T-13">
+        <mxCell id="KLUg16uu9194eG2TQm-T-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KLUg16uu9194eG2TQm-T-69" target="KLUg16uu9194eG2TQm-T-76">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-69" value="Add Grup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326" y="486.4705882352941" width="197.65" height="98.8235294117647" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KLUg16uu9194eG2TQm-T-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="700" />
+              <mxPoint x="240" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-76" value="&lt;div&gt;JIKA&lt;/div&gt;TIDAK ADA&amp;nbsp;&lt;div&gt;SUBSCRIBER&amp;nbsp;&lt;/div&gt;&lt;div&gt;ATAU&amp;nbsp;&lt;/div&gt;&lt;div&gt;GRUP&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334.82" y="610" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KLUg16uu9194eG2TQm-T-76" target="KLUg16uu9194eG2TQm-T-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-80" value="True" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="266" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KLUg16uu9194eG2TQm-T-81" value="False" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="780" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
